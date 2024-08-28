@@ -1,0 +1,15 @@
+Welcome to the Gravity Processing Repository!
+
+This repository contains code for processing gravity data, including data preprocessing, Bouguer correction, residual and regional calculation, and map creation.
+
+## Table of Contents
+
+1. [Data Preprocessing](#data-preprocessing)
+2. [Bouguer Correction](#bouguer-correction)
+3. [Residual and Regional Calculation](#residual-and-regional-calculation)
+4. [Map Creation](#map-creation)
+
+this repository is for processing gravity data, but the processing is not yet accurate, and i might worked on it soon.
+
+for the next thing to do is to add 2d and 3d inverse modelling
+and adding ui to make it more interactive, maybe using tkinter or streamlit.
